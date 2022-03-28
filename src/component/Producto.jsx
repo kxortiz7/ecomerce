@@ -53,9 +53,9 @@ const Producto = () => {
                     <div className="card">
                         <h6 className='my-3 text-uppercase'>HUSHPUPPIESCO/ CALZADO / {data.nombre}</h6>
                         <div className="card-img">
-                            <img src={`./img/product/${data.foto}`} className="card-img-top d-block fluid" id="img-vp" />
+                            <img src={`./img/product/${data.foto}`} className="card-img-top d-block fluid" id="img-vp" alt='..'/>
                             <div className="card-img-f border-top"></div>
-                            <img src={`./img/product/${data.foto}`} />
+                            <img src={`./img/product/${data.foto}`} alt='..' />
                         </div>
                     </div>
 
@@ -67,7 +67,7 @@ const Producto = () => {
                         <p className='cod-product'>Cod. de producto {data.referencia}</p>
                         <h6>COLOR</h6>
                         <div className="border-2" >
-                            <img src={`./img/product/${data.foto}`} />
+                            <img src={`./img/product/${data.foto}`} alt='..'/>
                         </div>
                         <h6 className='mt-3'>TALLA</h6>
                         <div className=" my-2 col-md-10" id='col'>
