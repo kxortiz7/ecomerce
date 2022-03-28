@@ -27,7 +27,8 @@ const Producto = () => {
 
     useEffect(() => {
         prod.map((v) => {
-            let comp = (v?.nombre !== nombre) ? false : setData(v)
+            return (
+         (v?.nombre !== nombre) ? false : setData(v))
         })
     })
 
