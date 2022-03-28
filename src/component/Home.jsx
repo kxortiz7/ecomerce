@@ -21,7 +21,8 @@ const Home = () => {
 
     return (
         <>
-            <Navbar />           
+            <Navbar /> 
+            <div className="content-home">          
             <div className="card-group-fluid">
                 <div className="card">
                     <img src={img23} className="card-img-top" alt="..." />                    
@@ -70,7 +71,7 @@ const Home = () => {
             
             <Footer />
 
-
+            </div> 
         </>
     );
 };

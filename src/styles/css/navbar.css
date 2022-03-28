@@ -27,10 +27,7 @@
   font-weight: 700;
 }
 
-#nav-container-two{
-  background: #C9CCD5 !important;
-  padding: 1px;
-}
+
 
 .container-fluid-two-l{
 width: 50% !important;
@@ -72,3 +69,25 @@ img{
 #nav-cl-two{
   margin-top: 1px;
 }
+
+#nav-container-two{
+  background: #d3c8c8 !important;
+  padding: 2px;
+}
+
+.content-navbar{
+  background: white !important;
+}
+
+#contect-nabvar-1{
+  background: white !important;
+}
+
+#nav-cl-two{
+  background: white !important;
+}
+
+.car-shop h6{
+  font-size: 14px;
+}
+
