@@ -1,0 +1,163 @@
+
+div{
+    overflow-x:hidden
+}
+
+.card-img-top{
+    margin: 0px;
+}
+
+.card{
+    border: none !important; 
+      
+}
+
+#card-group-1{
+    margin-left: 10%;
+    margin-right: 1%;
+    height: 400px;
+    align-items: center;
+    justify-content: center;  
+    
+}
+
+#card-group-1 a{
+    position: absolute;
+   
+}  
+
+#card-group-4{
+    align-items: center;
+    justify-content: center;
+}
+
+#card-group-4 a{
+    position: absolute;
+   
+   
+}
+#card-group-5 a{
+    position: absolute;
+   
+   
+}
+
+#card-group-1 button{
+    margin-top: 300px;
+    width: 200px;
+    height: 40px;
+    border: 0;
+    color: rgb(136, 130, 123);
+    font-weight: 600;
+}
+
+#card-group-1 a{
+    text-decoration: none;
+}
+
+#card-group-1 img{
+    height: 400px;
+    position:relative;
+    
+}
+#card-group-2{
+    margin-right: 10%;
+    margin-left: 1%;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+#card-group-2 button{
+    margin-top: 300px;
+    width: 200px;
+    height: 40px;
+    border: 0;
+    color: rgb(136, 130, 123);
+    font-weight: 600;
+}
+
+
+#card-group-4 button{
+    margin-top: 300px;
+    width: 200px;
+    height: 40px;
+    border: 0;
+    color: rgb(136, 130, 123);
+    font-weight: 600;
+}
+
+#card-group-2 img{
+    height: 400px;
+}
+
+.container-fluid-footer{
+   display: flex;
+   flex-direction: column;
+   height: 120px;    
+   text-align: center;  
+   background: rgb(224, 219, 219);  
+   align-items: center; 
+   justify-content: center;
+   
+}
+
+.container-fluid-footer p{      
+    font-size: 30px;     
+}
+
+
+.icon-f{
+    display: flex;    
+    
+}
+
+.card-group-fluid img{
+    height: auto;
+}
+
+#card-group-3 img{
+    height: auto;
+    position: relative;
+}
+
+#card-group-4 img{
+    height: 500px;
+    position: relative;
+}
+
+#card-group-5 img{
+    height: 246px;
+    position: relative;
+}
+
+#card-group-5{
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+
+.link-img-5-1{
+    margin-bottom: 150px;
+    width: 200px;
+    height: 40px;
+    border: 0;
+    color: rgb(136, 130, 123);
+    font-weight: 600;
+    
+    
+}
+.link-img-5-2{
+    
+    width: 200px;
+    height: 40px;
+    border: 0;
+    color: rgb(136, 130, 123);
+    font-weight: 600;
+    margin-top: 350px;
+    
+    
+}
+
+#card-group-4 a{
+    text-decoration: none;
+}

@@ -1,0 +1,32 @@
+.card-text{
+    font-size: 12px;
+    margin-bottom: 7px;
+
+}
+
+.icon-footer{
+    height: 20px;
+    width: 20px;
+   
+}
+
+
+
+#u-p{
+    font-size: 13px;
+}
+
+#input-footer{
+    width: 200px;
+    margin-left: 15px;
+}
+
+.img-footer{
+    width: 100%;
+}
+.container-fluid-footer i{
+    display: flex;
+    margin-right: 15px;
+    text-align: center;
+   
+}

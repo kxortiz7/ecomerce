@@ -1,0 +1,108 @@
+#img-vp{
+    height: 400px;
+    width: 400px;
+}
+
+.card-description{
+    margin-left: 20%;
+}
+
+#m-b-comprar{
+    margin-left: 20%;
+}
+.card-description p.data-precio{
+    font-size: 24px;
+    color: #7e455b;
+    font-weight: 600;
+    margin:0;
+}
+
+.card-description img{
+    width: 70px;
+    height: 70px;
+    margin:0;
+}
+.card-description h3{
+    color: rgb(114, 108, 108);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 550;
+}
+.card-description h6{
+    color: rgb(88, 85, 85);
+}
+
+.card-description p.cod-product{
+    color: rgb(211, 199, 199);
+    font-weight: 600;
+}
+.border-2{
+    width: 70px;
+    border: groove 0.1px #faf3f7;
+    border-width: 1px; 
+   
+}
+
+#button-comprar{
+    background: #7e455b;
+    border-radius: 1px;
+    color: white;  
+    padding: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    border-color: white;   
+   
+}
+
+.card-text-comprar{
+    font-size: 18px;
+    color: #7e455b;
+    font-weight: 600;
+}
+
+#b-talla{
+    height: 50px;
+    width: 50px;   
+    overflow: hidden;
+    background: #d4cace;
+    margin: 10px;
+   
+  
+    
+}
+
+#b-talla p{
+    font-size: 18px;
+    color:rgb(70, 64, 64);
+    font-weight: 700;
+    
+    
+}
+
+#b-talla a{
+    text-decoration: none;
+}
+
+.encabezado h5{
+    color: rgb(114, 108, 108);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 550;
+
+}
+
+.content p{
+    color: rgb(163, 155, 155);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#encabezado-2{
+    background: #e6dce0;
+}
+
+#encabezado-2 h5{   
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    margin-top: 5px; 
+
+
+}

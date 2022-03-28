@@ -1,0 +1,74 @@
+.container-fluid-head{
+    padding: 5px;  
+    text-align: center;  
+    background: #7e455b;
+  }
+  
+  .container-fluid-head h5{
+    color: white;
+    margin-top: 4px;
+  
+  }
+  #navbarSupportedContent{
+    margin-right: 50px;
+    
+  }
+    
+  .nav-link{
+    font-size: 12PX;
+    font-weight: 700;
+    color: #886F6F;
+  
+  }
+
+.nav-item-1 a{
+  font-size: 11px !important;
+  padding: 4px;
+  font-weight: 700;
+}
+
+#nav-container-two{
+  background: #C9CCD5 !important;
+  padding: 1px;
+}
+
+.container-fluid-two-l{
+width: 50% !important;
+}
+
+img{
+    width: 100px;
+    margin-left: 10%;
+   
+}
+
+.nav-link{
+   font-size: 16px;
+   font-family: 'Playfair Display', serif;
+}
+
+.container-fliud-promo{
+   margin-top: 25px;
+}
+
+.container-fliud-promo h6{
+   color:#7e455b;
+   font-weight: 350;
+}
+
+.div-container{
+  border-bottom: solid 1px rgb(160, 155, 155) !important;
+
+}
+
+.car-shop{
+  text-align: center;
+}
+
+.nav-item{
+  margin-right: 15px;
+}
+
+#nav-cl-two{
+  margin-top: 1px;
+}
