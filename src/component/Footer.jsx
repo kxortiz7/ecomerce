@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/css/footer.css';
 import wing from '../assets/img/footer/wing.png';
 import ppagos from '../assets/img/footer/p.pagos.png';
+import { NavLink } from 'react-router-dom';
 
 
 const Footer = () => {
@@ -54,8 +55,8 @@ const Footer = () => {
               <div className="input-group">
                 <input type="text" className="form-control" id='input-footer' />
                 <span className="input-group-text">
-                  <a href="">
-                    <img className='icon-footer' src={wing} alt="" /></a>  </span>
+                  <NavLink to="/home">
+                    <img className='icon-footer' src={wing} alt="" /></NavLink>  </span>
               </div>
             </div>
 
