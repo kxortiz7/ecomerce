@@ -8,11 +8,11 @@ const Precomendado = ({ product }) => {
     const nAleatorio = Math.floor(Math.random() * (product.length) + 1)
     let nAleatorio2, nAleatorio3, nAleatorio4
 
-    if (nAleatorio2 == nAleatorio && nAleatorio2 <= product.length) { nAleatorio2 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio2 = nAleatorio - 1 }
+    if (nAleatorio2 === nAleatorio && nAleatorio2 <= product.length) { nAleatorio2 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio2 = nAleatorio - 1 }
 
-    if (nAleatorio3 == nAleatorio2 && nAleatorio3 <= product.length) { nAleatorio3 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio3 = nAleatorio - 2 }
+    if (nAleatorio3 === nAleatorio2 && nAleatorio3 <= product.length) { nAleatorio3 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio3 = nAleatorio - 2 }
 
-    if (nAleatorio4 == nAleatorio3 && nAleatorio4 <= product.length) { nAleatorio4 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio4 = nAleatorio - 3 }
+    if (nAleatorio4 === nAleatorio3 && nAleatorio4 <= product.length) { nAleatorio4 = Math.floor(Math.random() * (product.length) + 1) } else { nAleatorio4 = nAleatorio - 3 }
 
 
     return (
